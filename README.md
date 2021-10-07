@@ -38,6 +38,7 @@ A student who successfully completes this course will:
 | Week | Topic |
 |------|-------|
 | 1 | [TK] |
+
 <!--
 | 1 | Course Introduction, Setup. Generative Systems in the Arts, Basics of Neural Nets. - Course environment setup and introductory exercise |
 | 2 | Text Generation I: Historical Approaches, RNNs, LSTMs - Assign Project 1 - RNN exercise |
