@@ -2,7 +2,7 @@
 
 [Description](#description) | [Schedule](#schedule) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [Accomodations](#accommodations-for-students-with-disabilities) | [References](#references)
 
-![Image](ml_art2019.png)
+![Image](smartenv.png)
 
 # Description
 
