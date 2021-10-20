@@ -34,9 +34,10 @@ A student who successfully completes this course will:
 
 | Week | Topic |
 |------|-------|
-| 1 | __Introduction: Smart Environments Across Scales__ <br> Topics: "Smart"; Situated, Embedded Computing; Scales of Smart; History and Approaches; <br>
-Reading: [TK] Exercise: field research; defining smart environments; smart environments in the wild;  |
-| 2 | __Devices 1: Assistants__ Topics: voice as interaction modality; speech recognition; speech synthesis; conversational agents; Readings: Jeremijenko, "If Things Can Talk, What Do They Say? If We Can Talk to Things, What Do We Say?", Electronic Book Review 2012; Exercise: interview a voice assistant |
+| 1 | **Introduction: Smart Environments Across Scales** <br> Topics: "Smart"; Situated, Embedded Computing; Scales of Smart; History and Approaches; <br> Reading: [TK] Exercise: field research; defining smart environments; smart environments in the wild;  |
+| 2 | **Devices 1: Assistants** <br> Topics: voice as interaction modality; speech recognition; speech synthesis; conversational agents; <br> Readings: Jeremijenko, "If Things Can Talk, What Do They Say? If We Can Talk to Things, What Do We Say?", Electronic Book Review 2012; <br> Exercise: interview a voice assistant |
+| 3 | **Devices 2: Observers** <br> Topics: video processing; motion detection; object detection; things that see. <br> Readings: Timo Arnall, "Robot Readable World" <br> [exercise] <br> Assign Project 1: Smart Devices |
+
 <!--
 | 1 | Course Introduction, Setup. Generative Systems in the Arts, Basics of Neural Nets. - Course environment setup and introductory exercise |
 | 2 | Text Generation I: Historical Approaches, RNNs, LSTMs - Assign Project 1 - RNN exercise |
