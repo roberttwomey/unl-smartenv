@@ -34,8 +34,7 @@ A student who successfully completes this course will:
 
 | Week | Topic |
 |------|-------|
-| 1 | __Introduction: Smart Environments Across Scales__ <br>
-Topics: "Smart"; Situated, Embedded Computing; Scales of Smart; History and Approaches; <br>
+| 1 | __Introduction: Smart Environments Across Scales__ <br> Topics: "Smart"; Situated, Embedded Computing; Scales of Smart; History and Approaches; <br>
 Reading: [TK] Exercise: field research; defining smart environments; smart environments in the wild;  |
 | 2 | __Devices 1: Assistants__ Topics: voice as interaction modality; speech recognition; speech synthesis; conversational agents; Readings: Jeremijenko, "If Things Can Talk, What Do They Say? If We Can Talk to Things, What Do We Say?", Electronic Book Review 2012; Exercise: interview a voice assistant |
 <!--
