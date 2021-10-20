@@ -42,9 +42,16 @@ A student who successfully completes this course will:
 | 6 | **Sensing 2: Responsive Space**<br> - Topics: IoT actuators; lighting; feedback;<br> - Reading: Mark Weiser "Open House"<br> - Exercise: [TK] |
 | 7 | **Sensing 3: Situated Computing**<br> - Topics: spatial computing; spimes; machine cohabitation; robots;<br> - Reading: Bruce Sterling, "Shaping Things"<br> - Exercise [TK]<br> - Assign Project 2: Distributed Sensing |
 | 8 | **Sensors Project Studio**<br> - DUE Project 2 Proposal<br> - Work Time | 
-| 9 | **Media 1: Video Walls**<br> - Topics: CAVEs, "Video Walls", networked AV telecommunication<br> - Reading: Ray Bradbury "The Veldt".<br> Exercise [TK] |
+| 9 | **Media 1: Video Walls**<br> - Topics: CAVEs, "Video Walls", networked AV telecommunication<br> - Reading: Ray Bradbury "The Veldt".<br> - Exercise [TK] |
 | 10 | **Media 2: Immersive A/V**<br> - Topics: room scale projection; spatial audio;<br> - Exercise [TK]<br> - DUE Project 2 |
 | 11 | **Media 3: Ambient**<br> - Topics: passive/ambient interactions; eInk; ambient orb;<br> - Reading: Mark Weiser and John Seeley Brown, "Designing Calm Technology"<br> -  Exercise [TK] |
+| 12 | **Zoom Out 1: Smart Cities**<br> - Topics: Sidewalk labs, smart cities<br> - Reading: Goodman, Ellen P., and Julia Powles. "Urbanism under google: Lessons from sidewalk Toronto."<br> - Assign Final Project |
+| 13 | **Zoom Out 2: National / Planetary**<br> - Topics: Globalism, Economies, Planetary scale computing<br> - Reading: Bratton, "The Stack" (excerpts)<br>- Exercise [TK]<br>DUE Final Project Proposal |
+| 14 | **Final Project Studio 1**<br> - Final project work time<br> - Workshop projects<br> - Guest critics |
+| 15 | **Final Project Studio 2**<br> - Final project work time<br> - Workshopping Final Presentations |
+| 16 | Exhibition/Showcase Open Studios (Final Project, Talk, Documentation due)<br> NO FINAL EXAM |
+
+
 
 <!--
 | 1 | Course Introduction, Setup. Generative Systems in the Arts, Basics of Neural Nets. - Course environment setup and introductory exercise |
