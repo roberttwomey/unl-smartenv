@@ -49,7 +49,7 @@ A student who successfully completes this course will:
 | 13 | **Zoom Out 2: National / Planetary**<br> - Topics: Globalism, Economies, Planetary scale computing<br> - Reading: Bratton, "The Stack" (excerpts)<br>- Exercise [TK]<br>DUE Final Project Proposal |
 | 14 | **Final Project Studio 1**<br> - Final project work time<br> - Workshop projects<br> - Guest critics |
 | 15 | **Final Project Studio 2**<br> - Final project work time<br> - Workshopping Final Presentations |
-| 16 | Exhibition/Showcase Open Studios (Final Project, Talk, Documentation due)<br> NO FINAL EXAM |
+| 16 | Exhibition/Showcase Open Studios (Final Project, Talk, Documentation due)<br> - NO FINAL EXAM |
 
 
 
