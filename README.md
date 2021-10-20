@@ -2,13 +2,10 @@
 
 [Description](#description) | [Schedule](#schedule) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [Accomodations](#accommodations-for-students-with-disabilities) | [References](#references)
 
-![Image](smartenv.png)
+![image](https://user-images.githubusercontent.com/1598545/138029579-30f9a141-f9e5-44e9-a374-4e9c62c31d5d.png)
 
 # Description
-
-This course provides an introduction to smart environments across multiple scales and contexts. From smart devices (speakers, voice assistants, cameras), to room-scale environments (including responsive audio-visual environments), to smart buildings, smart cities, and even smart networks and grids. Throughout, students will explore new technical possibilities for smart environments, will be challenged to think critically about ethical concerns in implementing smart environments, and will be asked to create functional smart environment systems.
-
-Technically, students will gain hands-on experience with networked microcontrollers (ESP32 and similar), network messaging (OSC, TCP/UDP), embedded systems (Raspberry Pi or similar), camera and audio-based interaction, as well as outputs including physical actuators, ambient displays, robotic devices, and audio and video projection. Topics covered include the Internet of Things, sensors, smart-lighting, smart sound, and projection mapping as techniques to create embedded, situated, responsive systems.  
+This course provides an introduction to smart environments across multiple scales and contexts. From smart devices (speakers, voice assistants, cameras), to room-scale environments (including responsive audio-visual environments), to smart buildings, smart cities (autonomous vehicles, micro-mobility, public transport), and even smart networks and grids. Throughout, students will explore new technical possibilities for smart environments, will be challenged to think critically about ethical concerns in implementing smart environments, and will be asked to create functional smart environment systems. They will employ emerging technologies such as sensors, smart devices, projection mapping, robotics, and pervasive computing to create smart environments. 
 
 ## Details
 
@@ -37,8 +34,8 @@ A student who successfully completes this course will:
 
 | Week | Topic |
 |------|-------|
-| 1 | [TK] |
-
+| 1 | __Introduction: Smart Environments Across Scales__ Topics: "Smart"; Situated, Embedded Computing; Scales of Smart; History and Approaches; Reading: [TK] Exercise: field research; defining smart environments; smart environments in the wild;  |
+| 2 | __Devices 1: Assistants__ Topics: voice as interaction modality; speech recognition; speech synthesis; conversational agents; Readings: Jeremijenko, "If Things Can Talk, What Do They Say? If We Can Talk to Things, What Do We Say?", Electronic Book Review 2012; Exercise: interview a voice assistant |
 <!--
 | 1 | Course Introduction, Setup. Generative Systems in the Arts, Basics of Neural Nets. - Course environment setup and introductory exercise |
 | 2 | Text Generation I: Historical Approaches, RNNs, LSTMs - Assign Project 1 - RNN exercise |
