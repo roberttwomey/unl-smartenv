@@ -5,24 +5,25 @@
 ![image](https://user-images.githubusercontent.com/1598545/138029579-30f9a141-f9e5-44e9-a374-4e9c62c31d5d.png)
 
 # Description
-This course provides an introduction to smart environments across multiple scales and contexts. From smart devices (speakers, voice assistants, cameras), to room-scale environments (including responsive audio-visual environments), to smart buildings, smart cities (autonomous vehicles, micro-mobility, public transport), and even smart networks and grids. Throughout, students will explore new technical possibilities for smart environments, will be challenged to think critically about ethical concerns in implementing smart environments, and will be asked to create functional smart environment systems. They will employ emerging technologies such as sensors, smart devices, projection mapping, robotics, and pervasive computing to create smart environments. 
+This course provides an introduction to smart environments across multiple scales and contexts. From smart devices (speakers, voice assistants, cameras), to room-scale environments (including responsive audio-visual environments), to smart buildings, smart cities (autonomous vehicles, micro-mobility, public transport), and even smart networks and grids. Throughout, students will explore new technical possibilities for smart environments, will be challenged to think critically about ethical concerns in implementing smart environments, and will be asked to create and interact with functional smart environment systems. We will explore emerging technologies such as sensors, smart devices, robotics, and pervasive computing to create smart environments. 
 
 ## Details
 
 - **Instructor:** Dr. Robert Twomey
 - **Class:** Tu/Th 9:30-10:45pm
-- **Location:** CEMA 243
+- **Location:** CEMA 243. __NOTE: Class will be online for the first two weeks, use the zoom link below__
 - **Office Hours:** TBD, zoom and in person
+- **Zoom:** https://unl.zoom.us/j/96452885715
 
 ## Course objectives
 - Experiential Learning 
 - Critical thinking and making 
-- Provide hands-on experience with contemporary technologies including (but not limited to): Internet of Things devices, wireless sensors, smart cameras/microphones, ambient displays, tangible interfaces. 
+- Provide hands-on experience with contemporary technologies such as: Internet of Things devices, wireless sensors, smart cameras/microphones, ambient displays, tangible interfaces. 
 - Build knowledge of historic and contemporary smart environment projects from the arts, industry, and academic research. 
-- Thinking critically about smart environments.
+- Thinking critically about smart environments. 
 
 A student who successfully completes this course will:
-- Design and construct functional smart environments using hardware and software tools. 
+- Design, build, or interact with functional smart environments using hardware and software tools. 
 - Understand principles of network communication to create distributed smart devices. 
 - Analyze, evaluate, and critique creative, technical, and ethical dimensions of smart environments. 
 - Advance an individual vision for how and why to create smart environments. 
@@ -51,30 +52,9 @@ A student who successfully completes this course will:
 | 15 | **Final Project Studio 2**<br> - Final project work time<br> - Workshopping Final Presentations |
 | 16 | Exhibition/Showcase Open Studios (Final Project, Talk, Documentation due)<br> - NO FINAL EXAM |
 
-
-
-<!--
-| 1 | Course Introduction, Setup. Generative Systems in the Arts, Basics of Neural Nets. - Course environment setup and introductory exercise |
-| 2 | Text Generation I: Historical Approaches, RNNs, LSTMs - Assign Project 1 - RNN exercise |
-| 3 | Text Generation II: Transformers, Fine-Tuning, Case Study: GPT-2 - Fine-tuning exercise - Due: Project 1 Proposal |
-| 4 | Chatbots, Interactive Text, Time Series in ML. - Interactive text exercise |
-| 5 | Time II: Autoencoders, Embeddings, Sketch-RNN - Due: Project 1 - Sketch-RNN exercise |
-| 6 | Intro to Generative Audio. - Generative Networks for Music MIDI RNN Exercise - Assign Project 2 |
-| 7 | Audio II: Music transformers. Speech generation. - Speech generation exercise - Due: Project 2 Proposal |
-| 8 | Audio III: Speech Recognition - Speech interaction exercise |
-| 9 | Visual Processing: CNNs. Style Transfer and Deep Dream - Style transfer/deep dream exercise - Due: Project 2 |
-| 10 | GANs: Generative Adversarial Networks - GAN exercise - Assign Project 3 |
-| 11 | Visual II: Segmentation and masked generation - GauGAN exercise - Due Project 3 Proposal |
-| 12 | Text and Image : Image Captioning, transformers and GANs - Text and image exercise (captioning, CLIP ,and DALL-E) - Due: Final Project Proposal |
-| 13 | ML and Video - Video processing exercise - Due: Project 3 |
-| 14 | Platforms and Applications of ML and the Arts - Final project work time |
-| 15 | Workshopping Final Presentations - Final project work time |
-| 16 | Exhibition/Showcase Open Studios (Final Project, Talk, Documentation due) NO FINAL EXAM |
--->
-
 # Resources
-- **Discussion:** we will use discord for discussion on the Carson Center server [link to come]().
-- **Canvas:** this is where I will handle grading: [https://canvas.unl.edu/courses/120574](https://canvas.unl.edu/courses/120574)
+- **Discussion:** we will use discord for discussion on the Carson Center server [https://discord.com/channels/688079641738608705/889389481956872192](https://discord.com/channels/688079641738608705/889389481956872192).
+- **Canvas:** this is where I will handle grading: [https://canvas.unl.edu/courses/124182](https://canvas.unl.edu/courses/124182)
 
 <!--
 - **Compute Resources:** We will use [datahub.ucsd.edu](http://datahub.ucsd.edu) for our in class computing environment. If you did not attend the bootcamp you need to contact me to be approved for datahub access. I will base it off of our final enrollment.
@@ -84,34 +64,30 @@ A student who successfully completes this course will:
 
 # Grading
 ## Graded activities
-- 20% Weekly Exercises – approximately 12 exercises 
-- 45% Projects – You will do three projects at 15% each*
-  * Code, Documentation, and Results must be submitted for credit.
-- 25% Final Project
-  * Code
-  * Documentation
-  * Presentation
+- 30% Weekly Exercises – approximately 10 exercises 
+- 30% Projects – You will do two projects at 15% each*
+- 30% Final Project
 - 10% Participation
-  * Finding and sharing resources on our course discussion. 
-  * Small assignments/tasks as they arise, graded on completion.
-  * Readings.
-  * Any written proposals, work-in-progress updates, check-ins, etc., I request for individual projects.
+  - Finding and sharing resources on our course discussion. 
+  - Small assignments/tasks as they arise, graded on completion.
+  - Readings.
+  - Any written proposals, work-in-progress updates, check-ins, etc., I request for individual projects.
 
-*Work will be evaluated on the quality of concept, the degree of experimentation (both aesthetic and technical), and final realization (again, aesthetic and technical). Prompts and rubrics will be provided with more specific details regarding each assignment and breakdowns
+*Work will be evaluated on the quality of concept, the degree of experimentation (both aesthetic and technical), and final realization (again, aesthetic and technical). Prompts and rubrics will be provided with more specific details regarding each assignment and breakdowns 
 
 ## Description of Assignments and Exams
 
 __*Weekly Exercises*__
-We will have regular, weekly programming assignments employing the tools and techniques covered in class. These will be short activities with clearly stated creative prompts and technical requirements. Projects will be graded on satisfactory completion with additional credit for creative, technical, expressive extension beyond requirements.
+We will have regular, weekly assignments employing the tools and techniques covered in class. These will be short activities with clearly stated creative prompts and technical requirements. Exercises will be submitted with source code, documentation, and reflective statement to class website. Projects will be graded on satisfactory completion with additional credit for creative, technical, expressive extension beyond requirements. 
 
 __*Projects*__
-We will have three projects over the semester (at 15% each), covering three kinds of generative media: Text, Sound, and Image. Each project will be hosted on a github repository documenting project following a uniform template. This includes a statement of concept, source code, links to data resources, discussion of results, and future directions. When assigned, students will submit a proposal/concept for their project to receive instructor feedback, and then work to complete the project. Projects will be presented and critiqued in class and github respositories will be submitted for grading.
+We will have two projects during the semester (at 15% each), covering Smart Devices and Distributed Sensing. When assigned, students will submit a proposal/concept for their project to receive instructor feedback, and then work to complete the project. Projects will be presented and critiqued in class and code, hardware, and documentation will be submitted for grading. 
 
 __*Final Project, Documentation, and Presentation*__
-At the end of the semester, you will propose and create a self-directed ML for the Arts project engaging a subject of your choice. You may either revisit a subject or idea that excited you from earlier in the semester, or explore a topic of interest that we have not covered in class. The format, workflow, and submission of this project will follow the process of the earlier projects. In week 16 we will have a showcase for these projects, including a short talk and exhibition of the resulting work. Projects will additionally be added to an online virtual gallery of ML Arts projects.
+At the end of the semester, you will propose and create a self-directed Smart Environments project engaging a subject of your choice, using tools and techniques from class. You may either A) revisit a subject or idea that excited you from earlier in the semester or B) explore a topic of interest that we have not covered in class. The format, workflow, and submission of this project will follow the process of the earlier projects. In week 16 we will have a showcase for these projects, including a short talk and exhibition of the resulting work. Projects will additionally be added to an online virtual gallery of Smart Environments projects. 
 
 __*Participation*__
-Contributions to class discussions and active participation in small group work are essential to both the momentum of the course and the development of your ideas. This requires that you come to class prepared (having completed assigned reading and writing) and ready to participate in class activities. This course is based on collaborative, project-based learning and you are also expected to contribute as a responsible member of a group. See the participation evaluation in the Grading Scale below for more information.
+We will have a number of avenues for course participation, graded on completion. These include regular course readings and responses, finding and sharing resources relevant to course topics on class discussion platforms, and providing peer feedback on classmates’ work.  
 
 ## Attendance
 On-time attendance is required as well as playtesting inside and outside of section. Please notify your instructor in advance if you must be absent for illness or family emergency. Any absences must be cleared with the instructor, or justified with written documentation (e.g. letter from team, etc.). We do not differentiate between mental and physical health and in either case please be in communication for when you need to take a day off. After a student misses a week’s worth of classes each subsequent missed class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-) Excessive tardiness or leaving early will also impact your grade and will follow the same rubric.
@@ -129,10 +105,10 @@ class will result in the reduction of the final grade by a full letter grade (i.
 An assignment may receive an F if a student does not participate in every phase of the development of the project and meet all deadlines for preliminary materials (proposals, drafts, etc.). Failure to submit any of the graded course assignments is grounds for failure in the course. If a final draft or project, plus required addenda, is not submitted in class on the date due, it will be considered late and will lose one letter grade for each day or part of a day past due (A to B, etc.). Assignments are due in hard copy and or via email/link (online assignment). You must submit your assignments directly to the instructor. Any late submissions must be approved by your faculty instructor well in advance of the due date.
 
 ## Grading Scale
-A+ = 97-100 A = 93-96 A- = 90-92
-B+ = 87-89 B = 83-86 B- = 80-82
-C+ = 77-79 C = 73-76 C- = 70-72
-D+ = 67-69 D = 63-66 D- = 60-62
+A+ = 97-100 A = 93-97 A- = 90-92
+B+ = 87-89 B = 83-87 B- = 80-82
+C+ = 77-79 C = 73-77 C- = 70-72
+D+ = 67-69 D = 63-67 D- = 60-62
 F =below 60%
 
 Here is a description of the kind of participation in the course that would earn you an A, B, C, etc. Your instructor may use pluses and minuses to reflect your participation more fairly, but this is a general description for each letter grade.
@@ -191,56 +167,5 @@ Instructors in the classroom:
 *Courses that have been granted an exception to the Face Covering Policy for pedagogical reasons are excluded. Exceptions to the Face Covering Policy are only granted after an approved health safety plan is developed.
 
 
-<!--
-# Addenda
-
-## Enrollment Fall 2019
-If you intend to enroll for Fall 2019, please fill out this questionnare: [https://forms.gle/iHiggRiVbPUsWMm46](https://forms.gle/iHiggRiVbPUsWMm46), and enroll for the class through the [EASy system](https://academicaffairs.ucsd.edu/Modules/Students/PreAuth/). 
-
-## CMU Collaboration
-
-We will have a couple of opportunities to interact with a similar class running this Spring at Carnegie Mellon University, as well as making a joint, online, public-facing exhibition for excellent student work (opt-in). More info coming soon!
-
-## Datahub Info
-
-We do our processing on datahub.ucsd.edu. Here is their instruction manual:
-- quick instructions [https://blink.ucsd.edu/faculty/instruction/tech-guide/dsmlp/index.html#Independent-Study,-Student-Rese](https://blink.ucsd.edu/faculty/instruction/tech-guide/dsmlp/index.html#Independent-Study,-Student-Rese)
-- detailed instructions [https://docs.google.com/document/u/1/d/e/2PACX-1vR-tC1oL6J9RJxSP42iWr8BukgRO9ohcybFXPn95yjQQLvv4iNP5Tlbzx06rQtPA-fLex2N_MVjzgAR/pub?embedded=true#h.lyhc4mlbki3f](https://docs.google.com/document/u/1/d/e/2PACX-1vR-tC1oL6J9RJxSP42iWr8BukgRO9ohcybFXPn95yjQQLvv4iNP5Tlbzx06rQtPA-fLex2N_MVjzgAR/pub?embedded=true#h.lyhc4mlbki3f)
-- making custom Docker containers to run on dsmlp [https://docs.google.com/document/d/1LPfqHvk2Itm_ckafrxRVxXQdr5BSozjsv_TURQDj9x8/edit](https://docs.google.com/document/d/1LPfqHvk2Itm_ckafrxRVxXQdr5BSozjsv_TURQDj9x8/edit)
--->
-
-<!-- # Projects
-
-## Project 1: Generative Text
-
-[Generative Text Assignment](https://docs.google.com/document/d/17FX0Vt3ur9QVmhnq4n4JJ0dmqBJuKIKGrslLoAkDpeM/export?format=pdf). Due 10/20/2019, 11:59pm.
-
-Submit online to github classroom: [https://classroom.github.com/g/sJIzmAcR](https://classroom.github.com/g/sJIzmAcR)
-
-## Project 2: Generative Audio
-
-[Generative Audio Assignment](https://docs.google.com/document/d/1E82WjOp3p1bXCeR43iGgG39zHPr8u-6_kYFB9RXyhFY/export?format=pdf). Due 11/12/2019, 11:59pm. 
-
-Submit online to github classroom: [https://classroom.github.com/g/ujfzX5Wp](https://classroom.github.com/g/ujfzX5Wp)
-
-## Project 3: Generative Visual
-
-[Generative Visual Assignment](https://docs.google.com/document/d/1RMeJF1oppSgedvhJGjB8CgGXlytR6KaXK8gMJTGJji0/export?format=pdf). Due 12/1/2019, 11:59pm.
-
-Submit online to github classroom: [https://classroom.github.com/g/AMOrRaOj](https://classroom.github.com/g/AMOrRaOj)
-
-## Final Project: Revisit One Project for Showcase
-
-Refine, enhance, extend one of your earlier projects for the showcase during Finals Week. 
-
-PROJECT DUE 12/11, 8-11am. Location TBD.
-
-REPORT DUE 12/13, 11:59pm. Add the pdf to your github, please.
-
-For the final project you will need to submit two things: 
-- Project repository as usual through github classroom: [https://classroom.github.com/g/lGEIfW-a](https://classroom.github.com/g/lGEIfW-a)
-- An extended project report (4 pages): see google doc link in repository
--->
-
 # References
-- Past courses: [UCSD ECE188 ML for the Arts 2019](https://roberttwomey.github.io/ucsd-ml-art/)
+
