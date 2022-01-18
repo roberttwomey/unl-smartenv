@@ -106,8 +106,8 @@ We will have a number of avenues for course participation, graded on completion.
 An assignment may receive an F if a student does not participate in every phase of the development of the project and meet all deadlines for preliminary materials (proposals, drafts, etc.). Failure to submit any of the graded course assignments is grounds for failure in the course. If a final draft or project, plus required addenda, is not submitted in class on the date due, it will be considered late and will lose one letter grade for each day or part of a day past due (A to B, etc.). Assignments are due in hard copy and or via email/link (online assignment). You must submit your assignments directly to the instructor. Any late submissions must be approved by your faculty instructor well in advance of the due date.
 
 ## Grading Scale
-| A+ = 97-100 A = 93-97 A- = 90-93 
-B+ = 87-89 B = 83-87 B- = 80-83
+A+ = 97-100 | A = 93-97 | A- = 90-93 <br>
+B+ = 87-89 | B = 83-87 | B- = 80-83 <br>
 C+ = 77-79 C = 73-77 C- = 70-73
 D+ = 67-69 D = 63-67 D- = 60-63
 F =below 60%
