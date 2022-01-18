@@ -1,6 +1,6 @@
 # EMAR 391-009: Smart Environments - Spring 2022
 
-[Description](#description) | [Schedule](#schedule) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [Accomodations](#accommodations-for-students-with-disabilities) | [References](#references)
+[Description](#description) | [Schedule](#schedule) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
 ![image](https://user-images.githubusercontent.com/1598545/138029579-30f9a141-f9e5-44e9-a374-4e9c62c31d5d.png)
 
@@ -11,9 +11,10 @@ This course provides an introduction to smart environments across multiple scale
 
 - **Instructor:** Dr. Robert Twomey
 - **Class:** Tu/Th 9:30-10:45pm
-- **Location:** CEMA 243. __NOTE: Class will be online for the first two weeks, use the zoom link below__
-- **Office Hours:** TBD, zoom and in person
+- **Location:** CEMA tbd __NOTE: Class will be online for the first two weeks, use the zoom link below__
 - **Zoom:** https://unl.zoom.us/j/96452885715
+- **Office Hours:** Zoom and in person.
+- **Office:** Room 253, CEMA
 
 ## Course objectives
 - Experiential Learning 
@@ -35,7 +36,8 @@ A student who successfully completes this course will:
 
 | Week | Topic |
 |------|-------|
-| 1 | **Introduction: Smart Environments Across Scales** <br> - Topics: "Smart"; Situated, Embedded Computing; Scales of Smart; History and Approaches; <br> - Reading: [TK]<br> - Exercise: field research; defining smart environments; smart environments in the wild;  |
+| 1a | **Syllabus and Policis** }
+| 1b | **Introduction: Smart Environments Across Scales** <br> - Topics: "Smart"; Situated, Embedded Computing; Scales of Smart; History and Approaches; <br> - Reading: [TK]<br> - Exercise: field research; defining smart environments; smart environments in the wild;  |
 | 2 | **Devices 1: Assistants** <br> - Topics: voice as interaction modality; speech recognition; speech synthesis; conversational agents; <br> - Readings: Jeremijenko, "If Things Can Talk, What Do They Say? If We Can Talk to Things, What Do We Say?", Electronic Book Review 2012; <br> - Exercise: interview a voice assistant |
 | 3 | **Devices 2: Observers** <br> - Topics: video processing; motion detection; object detection; things that see. <br> - Readings: Timo Arnall, "Robot Readable World" <br> - Exercise [TK] <br> - Assign Project 1: Smart Devices |
 | 4 | **Devices Project Studio**<br> - DUE Project 1 Proposal <br> - Work Time |
@@ -54,7 +56,7 @@ A student who successfully completes this course will:
 
 # Resources
 - **Discussion:** we will use discord for discussion on the Carson Center server [https://discord.com/channels/688079641738608705/889389481956872192](https://discord.com/channels/688079641738608705/889389481956872192).
-- **Canvas:** this is where I will handle grading: [https://canvas.unl.edu/courses/124182](https://canvas.unl.edu/courses/124182)
+- **Canvas:** this is where you will submit assignments, and where I will handle grading: [https://canvas.unl.edu/courses/124182](https://canvas.unl.edu/courses/124182)
 
 <!--
 - **Compute Resources:** We will use [datahub.ucsd.edu](http://datahub.ucsd.edu) for our in class computing environment. If you did not attend the bootcamp you need to contact me to be approved for datahub access. I will base it off of our final enrollment.
