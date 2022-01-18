@@ -1,6 +1,6 @@
 # EMAR 391-009: Smart Environments - Spring 2022
 
-[Description](#description) | [Schedule](#schedule) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [References](#references)
+[Description](#description) | [Resources](#resources) | [Schedule](#schedule) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
 ![image](https://user-images.githubusercontent.com/1598545/138029579-30f9a141-f9e5-44e9-a374-4e9c62c31d5d.png)
 
@@ -156,4 +156,7 @@ class will result in the reduction of the final grade by a full letter grade (i.
 - 4.7.5 The policy on students who are late to class will be left up to the individual instructors.
 
 # References
+## CMU Collaboration
+
+We will have a couple of opportunities to interact with a similar class running this Spring at Carnegie Mellon University, as well as making a joint, online, public-facing exhibition for excellent student work (opt-in). More info coming soon!
 
