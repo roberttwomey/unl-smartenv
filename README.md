@@ -11,7 +11,7 @@ This course provides an introduction to smart environments across multiple scale
 
 - **Instructor:** Dr. Robert Twomey
 - **Class:** Tu/Th 9:30-10:45pm
-- **Location:** CEMA tbd
+- **Location:** CEMA 209, basement, or RVB 213
   - __NOTE: Class will be online for the first two weeks, use the zoom link below__
 - **Zoom:** https://unl.zoom.us/j/96452885715
 - **Office:** Room 253, CEMA
