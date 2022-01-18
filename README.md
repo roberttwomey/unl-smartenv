@@ -156,7 +156,3 @@ class will result in the reduction of the final grade by a full letter grade (i.
 - 4.7.5 The policy on students who are late to class will be left up to the individual instructors.
 
 # References
-## CMU Collaboration
-
-We will have a couple of opportunities to interact with a similar class running this Spring at Carnegie Mellon University, as well as making a joint, online, public-facing exhibition for excellent student work (opt-in). More info coming soon!
-
