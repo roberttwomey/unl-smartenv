@@ -13,7 +13,7 @@ This course provides an introduction to smart environments across multiple scale
 - **Class:** Tu/Th 9:30-10:45pm
 - **Location:** CEMA 209, basement, or RVB 213
   - __NOTE: Class will be online for the first two weeks, use the zoom link below__
-- **Zoom:** https://unl.zoom.us/j/96452885715
+- **Zoom:** [https://unl.zoom.us/j/96452885715](https://unl.zoom.us/j/96452885715)
 - **Office:** Room 253, CEMA
 - **Office Hours:** likely Wed. Zoom and in person.
 
@@ -37,7 +37,7 @@ A student who successfully completes this course will:
 - **Discussion:** we will use discord for informal discussion, sharing, and asynchronous support. There is a `#smart-environments` channel on the Carson Center server [https://discord.com/channels/688079641738608705/889389481956872192](https://discord.com/channels/688079641738608705/889389481956872192).
   - the server invite is posted on canvas.
 - **Canvas:** this is where you will submit assignments, and where I will handle grading: [https://canvas.unl.edu/courses/124182](https://canvas.unl.edu/courses/124182)
-- **Zoom:** https://unl.zoom.us/j/96452885715
+- **Zoom:** [https://unl.zoom.us/j/96452885715](https://unl.zoom.us/j/96452885715)
   - this is our course zoom link. we will use it in the first two weeks, and for any one-on-one meetings with the prof.
 
 ## Materials
