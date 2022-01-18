@@ -107,10 +107,10 @@ An assignment may receive an F if a student does not participate in every phase 
 
 ## Grading Scale
 A+ = 97-100 | A = 93-97 | A- = 90-93 <br>
-B+ = 87-89 | B = 83-87 | B- = 80-83 <br>
-C+ = 77-79 C = 73-77 C- = 70-73
-D+ = 67-69 D = 63-67 D- = 60-63
-F =below 60%
+B+ = 87-90 | B = 83-87 | B- = 80-83 <br>
+C+ = 77-80 | C = 73-77 | C- = 70-73 <br>
+D+ = 67-70 | D = 63-67 | D- = 60-63 <br>
+F = below 60%<br>
 
 Here is a description of the kind of participation in the course that would earn you an A, B, C, etc. Your instructor may use pluses and minuses to reflect your participation more fairly, but this is a general description for each letter grade.
 
