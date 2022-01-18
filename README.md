@@ -36,7 +36,7 @@ A student who successfully completes this course will:
 
 | Week | Topic |
 |------|-------|
-| 1a | **Syllabus and Policis** }
+| 1a | **Syllabus and Policies** |
 | 1b | **Introduction: Smart Environments Across Scales** <br> - Topics: "Smart"; Situated, Embedded Computing; Scales of Smart; History and Approaches; <br> - Reading: [TK]<br> - Exercise: field research; defining smart environments; smart environments in the wild;  |
 | 2 | **Devices 1: Assistants** <br> - Topics: voice as interaction modality; speech recognition; speech synthesis; conversational agents; <br> - Readings: Jeremijenko, "If Things Can Talk, What Do They Say? If We Can Talk to Things, What Do We Say?", Electronic Book Review 2012; <br> - Exercise: interview a voice assistant |
 | 3 | **Devices 2: Observers** <br> - Topics: video processing; motion detection; object detection; things that see. <br> - Readings: Timo Arnall, "Robot Readable World" <br> - Exercise [TK] <br> - Assign Project 1: Smart Devices |
@@ -117,18 +117,6 @@ Unsatisfactory participation is marked by multiple absences from section and a c
 
 F—Failing
 Failing participation is marked by excessive absences, a habitual lack of preparation, and failure to engage in the drafting, revision, and collaborative writing/making processes.
-
-## Attendance
-On-time attendance is required as well as playtesting inside and outside of section. Please notify your instructor in advance if you must be absent for illness or family emergency. Any absences must be cleared with the instructor, or justified with written documentation (e.g. letter from team, etc.). We do not differentiate between mental and physical health and in either case please be in communication for when you need to take a day off. After a student misses a week’s worth of classes each subsequent missed class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-) Excessive tardiness or leaving early will also impact your grade and will follow the same rubric.
-
-Please also note the JCSTF attendance policy:
-- 4.7 Attendance Policy
-- 4.7.1 After a student misses an equivalent of one week’s worth of classes, each subsequent missed
-class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-).
-- 4.7.2 Students may be granted an excused absence at the instructor’s discretion.
-- 4.7.3 Students may be granted an excused absence, at the instructor’s discretion, to allow those students to participate in extra-curricular events representing the University. In such cases, the instructor must be notified in advance.
-- 4.7.4 This policy, as approved by the faculty, represents the minimum requirement. Faculty members are permitted to develop more stringent attendance requirements, as long as those requirements are detailed in writing in the class syllabus and distributed at the beginning of each course.
-- 4.7.5 The policy on students who are late to class will be left up to the individual instructors.
  
 # Policies
 
@@ -143,6 +131,18 @@ __UNL Course Policies and Resources__. Students are responsible for knowing the 
 - Diversity & Inclusiveness
 - Title IX Policy
 - Other Relevant University-Wide Policies
+
+## Attendance
+On-time attendance is required as well as work inside and outside of section. Please notify your instructor in advance if you must be absent for illness or family emergency. Any absences must be cleared with the instructor, or justified with written documentation (e.g. letter from team, etc.). We do not differentiate between mental and physical health and in either case please be in communication for when you need to take a day off. After a student misses a week’s worth of classes each subsequent missed class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-) Excessive tardiness or leaving early will also impact your grade and will follow the same rubric.
+
+Please also note the JCSTF attendance policy:
+- 4.7 Attendance Policy
+- 4.7.1 After a student misses an equivalent of one week’s worth of classes, each subsequent missed
+class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-).
+- 4.7.2 Students may be granted an excused absence at the instructor’s discretion.
+- 4.7.3 Students may be granted an excused absence, at the instructor’s discretion, to allow those students to participate in extra-curricular events representing the University. In such cases, the instructor must be notified in advance.
+- 4.7.4 This policy, as approved by the faculty, represents the minimum requirement. Faculty members are permitted to develop more stringent attendance requirements, as long as those requirements are detailed in writing in the class syllabus and distributed at the beginning of each course.
+- 4.7.5 The policy on students who are late to class will be left up to the individual instructors.
 
 # References
 
