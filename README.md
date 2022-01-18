@@ -33,6 +33,25 @@ A student who successfully completes this course will:
 
 **Prequisites:** Major in Emerging Media Arts and EMAR161 Computational Media Studio II, or permission of instructor.
 
+# Resources
+- **Discussion:** we will use discord for informal discussion, sharing, and asynchronous support. There is a `#smart-environments` channel on the Carson Center server [https://discord.com/channels/688079641738608705/889389481956872192](https://discord.com/channels/688079641738608705/889389481956872192).
+  - the server invite is posted on canvas.
+- **Canvas:** this is where you will submit assignments, and where I will handle grading: [https://canvas.unl.edu/courses/124182](https://canvas.unl.edu/courses/124182)
+- **Zoom:** https://unl.zoom.us/j/96452885715
+  - this is our course zoom link. we will use it in the first two weeks, and for any one-on-one meetings with the prof.
+
+## Materials
+- Readings will be provided through Canvas as pdfs. 
+- Hardware/software will be provided by the Center for Emerging Media Arts program.
+- Laptop (?)
+- Workstations in the CEMA Computer Lab (room 243) are available anytime class is not in session.
+
+<!--
+- **Compute Resources:** We will use [datahub.ucsd.edu](http://datahub.ucsd.edu) for our in class computing environment. If you did not attend the bootcamp you need to contact me to be approved for datahub access. I will base it off of our final enrollment.
+- **Code:** code examples are here: [https://github.com/roberttwomey/ml-art-code](https://github.com/roberttwomey/ml-art-code)
+- **Github Classroom:** this is where you will submit your code: [https://classroom.github.com/classrooms/49459697-ece188-fa2019](https://classroom.github.com/classrooms/49459697-ece188-fa2019)
+-->
+
 # Schedule
 (Subject to Change-Always check back for most up to date information)
 
@@ -55,25 +74,6 @@ A student who successfully completes this course will:
 | 14 | **Final Project Studio 1**<br> - Final project work time<br> - Workshop projects<br> - Guest critics |
 | 15 | **Final Project Studio 2**<br> - Final project work time<br> - Workshopping Final Presentations |
 | 16 | Exhibition/Showcase Open Studios (Final Project, Talk, Documentation due)<br> - NO FINAL EXAM |
-
-# Resources
-- **Discussion:** we will use discord for informal discussion, sharing, and asynchronous support. There is a `#smart-environments` channel on the Carson Center server [https://discord.com/channels/688079641738608705/889389481956872192](https://discord.com/channels/688079641738608705/889389481956872192).
-  - the server invite is posted on canvas.
-- **Canvas:** this is where you will submit assignments, and where I will handle grading: [https://canvas.unl.edu/courses/124182](https://canvas.unl.edu/courses/124182)
-- **Zoom:** https://unl.zoom.us/j/96452885715
-  - this is our course zoom link. we will use it in the first two weeks, and for any one-on-one meetings with the prof.
-
-# Required Materials
-- Readings will be provided through Canvas as pdfs. 
-- Hardware/software will be provided by the Center for Emerging Media Arts program.
-- Laptop (?)
-- Workstations in the CEMA Computer Lab (room 243) are available anytime class is not in session.
-
-<!--
-- **Compute Resources:** We will use [datahub.ucsd.edu](http://datahub.ucsd.edu) for our in class computing environment. If you did not attend the bootcamp you need to contact me to be approved for datahub access. I will base it off of our final enrollment.
-- **Code:** code examples are here: [https://github.com/roberttwomey/ml-art-code](https://github.com/roberttwomey/ml-art-code)
-- **Github Classroom:** this is where you will submit your code: [https://classroom.github.com/classrooms/49459697-ece188-fa2019](https://classroom.github.com/classrooms/49459697-ece188-fa2019)
--->
 
 # Grading
 ## Graded activities
@@ -106,10 +106,10 @@ We will have a number of avenues for course participation, graded on completion.
 An assignment may receive an F if a student does not participate in every phase of the development of the project and meet all deadlines for preliminary materials (proposals, drafts, etc.). Failure to submit any of the graded course assignments is grounds for failure in the course. If a final draft or project, plus required addenda, is not submitted in class on the date due, it will be considered late and will lose one letter grade for each day or part of a day past due (A to B, etc.). Assignments are due in hard copy and or via email/link (online assignment). You must submit your assignments directly to the instructor. Any late submissions must be approved by your faculty instructor well in advance of the due date.
 
 ## Grading Scale
-A+ = 97-100 A = 93-97 A- = 90-92
-B+ = 87-89 B = 83-87 B- = 80-82
-C+ = 77-79 C = 73-77 C- = 70-72
-D+ = 67-69 D = 63-67 D- = 60-62
+| A+ = 97-100 A = 93-97 A- = 90-93 
+B+ = 87-89 B = 83-87 B- = 80-83
+C+ = 77-79 C = 73-77 C- = 70-73
+D+ = 67-69 D = 63-67 D- = 60-63
 F =below 60%
 
 Here is a description of the kind of participation in the course that would earn you an A, B, C, etc. Your instructor may use pluses and minuses to reflect your participation more fairly, but this is a general description for each letter grade.
@@ -128,7 +128,7 @@ Unsatisfactory participation is marked by multiple absences from section and a c
 
 F—Failing
 Failing participation is marked by excessive absences, a habitual lack of preparation, and failure to engage in the drafting, revision, and collaborative writing/making processes.
- 
+
 # Policies
 
 __UNL Course Policies and Resources__. Students are responsible for knowing the university policies and resources found on this page (https://go.unl.edu/coursepolicies):
