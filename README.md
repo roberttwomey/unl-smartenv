@@ -57,7 +57,7 @@ A student who successfully completes this course will:
 | 16 | Exhibition/Showcase Open Studios (Final Project, Talk, Documentation due)<br> - NO FINAL EXAM |
 
 # Resources
-- **Discussion:** we will use discord for discussion. There is a `#smart-environments` channel on the Carson Center server [https://discord.com/channels/688079641738608705/889389481956872192](https://discord.com/channels/688079641738608705/889389481956872192).
+- **Discussion:** we will use discord for informal discussion, sharing, and asynchronous support. There is a `#smart-environments` channel on the Carson Center server [https://discord.com/channels/688079641738608705/889389481956872192](https://discord.com/channels/688079641738608705/889389481956872192).
   - the server invite is posted on canvas.
 - **Canvas:** this is where you will submit assignments, and where I will handle grading: [https://canvas.unl.edu/courses/124182](https://canvas.unl.edu/courses/124182)
 - **Zoom:** https://unl.zoom.us/j/96452885715
