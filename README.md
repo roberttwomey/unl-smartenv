@@ -38,7 +38,7 @@ A student who successfully completes this course will:
 
 | Week | Topic |
 |------|-------|
-| 1a | **Syllabus and Policies** |
+| 1a | **Hello. Syllabus and Policies** |
 | 1b | **Introduction: Smart Environments Across Scales** <br> - Topics: "Smart"; Situated, Embedded Computing; Scales of Smart; History and Approaches; <br> - Reading: [TK]<br> - Exercise: field research; defining smart environments; smart environments in the wild;  |
 | 2 | **Devices 1: Assistants** <br> - Topics: voice as interaction modality; speech recognition; speech synthesis; conversational agents; <br> - Readings: Jeremijenko, "If Things Can Talk, What Do They Say? If We Can Talk to Things, What Do We Say?", Electronic Book Review 2012; <br> - Exercise: interview a voice assistant |
 | 3 | **Devices 2: Observers** <br> - Topics: video processing; motion detection; object detection; things that see. <br> - Readings: Timo Arnall, "Robot Readable World" <br> - Exercise [TK] <br> - Assign Project 1: Smart Devices |
@@ -57,14 +57,17 @@ A student who successfully completes this course will:
 | 16 | Exhibition/Showcase Open Studios (Final Project, Talk, Documentation due)<br> - NO FINAL EXAM |
 
 # Resources
-- **Discussion:** we will use discord for discussion on the Carson Center server [https://discord.com/channels/688079641738608705/889389481956872192](https://discord.com/channels/688079641738608705/889389481956872192).
+- **Discussion:** we will use discord for discussion. There is a `#smart-environments` channel on the Carson Center server [https://discord.com/channels/688079641738608705/889389481956872192](https://discord.com/channels/688079641738608705/889389481956872192).
+  - the server invite is posted on canvas.
 - **Canvas:** this is where you will submit assignments, and where I will handle grading: [https://canvas.unl.edu/courses/124182](https://canvas.unl.edu/courses/124182)
+- **Zoom:** https://unl.zoom.us/j/96452885715
+  - this is our course zoom link. we will use it in the first two weeks, and for any one-on-one meetings with the prof.
 
 # Required Materials
 - Readings will be provided through Canvas as pdfs. 
 - Hardware/software will be provided by the Center for Emerging Media Arts program.
 - Laptop (?)
-- Computer lab
+- Workstations in the CEMA Computer Lab (room 243) are available anytime class is not in session.
 
 <!--
 - **Compute Resources:** We will use [datahub.ucsd.edu](http://datahub.ucsd.edu) for our in class computing environment. If you did not attend the bootcamp you need to contact me to be approved for datahub access. I will base it off of our final enrollment.
