@@ -62,9 +62,9 @@ A student who successfully completes this course will:
 | 2 | **Devices 1: Assistants** <br> - Topics: voice as interaction modality; speech recognition; speech synthesis; conversational agents; <br> - Readings: Jeremijenko, "If Things Can Talk, What Do They Say? If We Can Talk to Things, What Do We Say?", Electronic Book Review 2012; <br> - Exercise: interview a voice assistant |
 | 3 | **Smart Assistant Studio** <br> - Work time <br> - Critique |
 | 4 | **Sensing 1: Annotating Space**<br> - Topics: IoT; Sensors; Annotating space. <br> - Reading: Georges Perec, "An Attempt at Exhausting a Place in Paris" (excerpts)<br> - Exercise [TK]  <br> - Assign Project 1: Smart Devices|
-| 5 | **Devices 2: Observers** <br> - Topics: video processing; motion detection; object detection; things that see. <br> - Readings: Timo Arnall, "Robot Readable World" <br> - Exercise [TK] <br> - DUE Project 1 |
-| 6 | **Sensing 2: Responsive Space**<br> - Topics: IoT actuators; lighting; feedback;<br> - Reading: Mark Weiser "Open House"<br> - Exercise: [TK] |
-| 7 | **Sensing 3: Situated Computing**<br> - Topics: spatial computing; spimes; machine cohabitation; robots;<br> - Reading: Bruce Sterling, "Shaping Things"<br> - Exercise [TK]<br> - Assign Project 2: Distributed Sensing |
+| 5 | **Sensing 2: Observers** <br> - Topics: video processing; motion detection; object detection; things that see. <br> - Readings: Timo Arnall, "Robot Readable World" <br> - Exercise [TK] <br> - DUE Project 1 |
+| 6 | **Sensing 3: Responsive Space**<br> - Topics: IoT actuators; lighting; feedback;<br> - Reading: Mark Weiser "Open House"<br> - Exercise: [TK] |
+| 7 | **Situated Computing**<br> - Topics: spatial computing; spimes; machine cohabitation; robots;<br> - Reading: Bruce Sterling, "Shaping Things"<br> - Exercise [TK]<br> - Assign Project 2: Distributed Sensing |
 | 8 | **Sensors Project Studio**<br> - DUE Project 2 Proposal<br> - Work Time | 
 | 9 | **Media 1: Video Walls**<br> - Topics: CAVEs, "Video Walls", networked AV telecommunication<br> - Reading: Ray Bradbury "The Veldt".<br> - Exercise [TK] |
 | 10 | **Media 2: Immersive A/V**<br> - Topics: room scale projection; spatial audio;<br> - Exercise [TK]<br> - DUE Project 2 |
