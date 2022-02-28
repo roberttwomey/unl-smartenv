@@ -39,6 +39,8 @@ A student who successfully completes this course will:
 - **Canvas:** this is where you will submit assignments, and where I will handle grading: [https://canvas.unl.edu/courses/124182](https://canvas.unl.edu/courses/124182)
 - **Zoom:** [https://unl.zoom.us/j/96452885715](https://unl.zoom.us/j/96452885715)
   - this is our course zoom link. we will use it in the first two weeks, and for any one-on-one meetings with the prof.
+- **Code:** [https://github.com/roberttwomey/smartenv-code](https://github.com/roberttwomey/smartenv-code)
+  - code examples and help
 
 ## Materials
 - Readings will be provided through Canvas as pdfs. 
