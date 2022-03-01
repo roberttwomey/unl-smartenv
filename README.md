@@ -1,6 +1,6 @@
 # EMAR 391-009: Smart Environments - Spring 2022
 
-[Description](#description) | [Resources](#resources) | [Code](#code) | [Schedule](#schedule) | [Grading](#grading) | [Policies](#policies) | [References](#references)
+[Description](#description) | [Code](https://github.com/roberttwomey/smartenv-code) | [Schedule](#schedule) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
 ![image](https://user-images.githubusercontent.com/1598545/138029579-30f9a141-f9e5-44e9-a374-4e9c62c31d5d.png)
 
